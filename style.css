@@ -16,7 +16,7 @@ a{
 }
 
 .container{
-    background-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/background_cartao.png);
+    background-image: url(/home/mendonca/Documentos/exercicios_frontend/imagens_exercícios/background_cartao.png);
     background-repeat: no-repeat;
     background-position: fixed;
     background-size: 400px 200px;
@@ -30,16 +30,17 @@ a{
 .topicos{
     padding-left: 35px;
     margin: 30px;
+    list-style-type: none;
 }
 
 li#insta{
-    list-style-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/insta_cartao.png);
+    list-style-image: url(/home/mendonca/Documentos/exercicios_frontend/imagens_exercícios/insta_cartao.png);
 }
 
 li#twitter{
-    list-style-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/twiter_cartao.png);
+    list-style-image: url(/home/mendonca/Documentos/exercicios_frontend/imagens_exercícios/twiter_cartao.png);
 }
 
 li#youtube{
-    list-style-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/youtube_cartao.png);
+    list-style-image: url(/home/mendonca/Documentos/exercicios_frontend/imagens_exercícios/youtube_cartao.png);
 }
