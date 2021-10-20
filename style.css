@@ -1,0 +1,45 @@
+body{
+    background-color:gray;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.titulo{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-variant:normal;
+    font-weight: normal;
+}
+
+.container{
+    background-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/background_cartao.png);
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-size: 400px 200px;
+    margin: 50px;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-variant: small-caps;
+}
+
+.topicos{
+    padding-left: 35px;
+    margin: 30px;
+}
+
+li#insta{
+    list-style-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/insta_cartao.png);
+}
+
+li#twitter{
+    list-style-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/twiter_cartao.png);
+}
+
+li#youtube{
+    list-style-image: url(/home/mendonca/Documentos/exercício_frontend01/imagens_exercícios/youtube_cartao.png);
+}
